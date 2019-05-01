@@ -1,4 +1,4 @@
-# DyePlantLessons
+# Dye Plant Lessons
 Teaching materials on use of vegitable dyes on "natural" (ie. protein, cellulose) fiber
 
 #### Might be subtitled 
